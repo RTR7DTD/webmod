@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Coppis command additions" />
+		<Description value="Additional management and player control functionality" />
+		<Author value="Coppi" />
+		<Version value="3.0" />
+		<Website value="http://7dtd.illy.bz" />
+	</ModInfo>
+</xml>
