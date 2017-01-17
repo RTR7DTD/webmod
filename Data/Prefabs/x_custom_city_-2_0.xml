@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="YOffset" value="-35" />
+    <property name="RotationToFaceNorth" value="0" />
+    <property name="StaticSpawner.Class" value="SpawnExLarge" />
+    <property name="StaticSpawner.Size" value="117,27,117" />
+    <property name="StaticSpawner.Trigger" value="50" />
+</prefab>
